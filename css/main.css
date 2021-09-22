@@ -1,0 +1,17 @@
+.top{
+    padding-top: 5px;
+}
+
+.logo-wrapper{
+    height: 200px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: solid 1px lightgray;
+}
+
+.logo-wrapper img{
+    max-height: 100px;
+    max-width: 100%;
+}
